@@ -1,18 +1,14 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-public class HealthDisplay : MonoBehaviour
+public class HealthBar : MonoBehaviour
 {
     public Sprite emptyHeart;
     public Sprite fullHeart;
     public Image[] hearts;
 
-    // เปลี่ยนจาก Update() เป็น UpdateHearts และรับค่าเลือดเข้ามา
     public void UpdateHearts(int health, int maxHealth)
     {
-        if (health > maxHealth)
-            health = maxHealth;
-
         for (int i = 0; i < hearts.Length; i++)
         {
             if (i < health)
@@ -20,7 +16,6 @@ public class HealthDisplay : MonoBehaviour
             else
                 hearts[i].sprite = emptyHeart;
 
-            // เปิด/ปิด รูปหัวใจตามจำนวน Max Health
             hearts[i].enabled = (i < maxHealth);
         }
     }

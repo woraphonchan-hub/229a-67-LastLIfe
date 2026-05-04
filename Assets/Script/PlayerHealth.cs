@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class PlayerHealth : MonoBehaviour
 {
-    public int maxHealth = 10;
+    public int maxHealth = 5;
     public int currentHealth;
 
     public HealthDisplay healthDisplay;
@@ -10,9 +10,7 @@ public class PlayerHealth : MonoBehaviour
     void Start()
     {
         currentHealth = maxHealth;
-
-        healthDisplay.maxHealth = maxHealth;
-        healthDisplay.health = currentHealth;
+        healthDisplay.UpdateHearts(currentHealth, maxHealth);
     }
 
     public void TakeDamage(int damage)
@@ -22,9 +20,9 @@ public class PlayerHealth : MonoBehaviour
         if (currentHealth < 0)
             currentHealth = 0;
 
-        healthDisplay.health = currentHealth;
+        healthDisplay.UpdateHearts(currentHealth, maxHealth);
 
-        Debug.Log("Player HP: " + currentHealth);
+        Debug.Log("เลือดเหลือ: " + currentHealth);
 
         if (currentHealth <= 0)
         {
@@ -34,6 +32,7 @@ public class PlayerHealth : MonoBehaviour
 
     void Die()
     {
-        Debug.Log("Player Dead");
+        Debug.Log("Player ตาย");
+        Destroy(gameObject);
     }
 }
