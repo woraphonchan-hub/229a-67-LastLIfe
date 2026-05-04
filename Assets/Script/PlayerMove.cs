@@ -2,17 +2,16 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    [Header("Movement")]
     public float moveSpeed = 5f;
     public float jumpForce = 7f;
 
-    [Header("Ground Check")]
     public Transform groundCheck;
     public float checkRadius = 0.2f;
     public LayerMask groundLayer;
 
     private Rigidbody2D rb;
-    private Animator anim; 
+    private Animator anim;
+    private SpriteRenderer sr;
 
     private float moveInput;
     private bool isGrounded;
@@ -20,7 +19,8 @@ public class PlayerMovement : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        anim = GetComponent<Animator>(); 
+        anim = GetComponent<Animator>();
+        sr = GetComponent<SpriteRenderer>();
     }
 
     void Update()
@@ -34,8 +34,10 @@ public class PlayerMovement : MonoBehaviour
         );
 
         anim.SetFloat("Speed", Mathf.Abs(moveInput));
-
         anim.SetBool("Jump", !isGrounded);
+
+        if (moveInput != 0)
+            sr.flipX = moveInput < 0;
 
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
