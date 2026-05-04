@@ -1,16 +1,51 @@
 using UnityEngine;
 
-public class Attack : MonoBehaviour
+public class PlayerAttack : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    public int damage = 20;
+    public float attackRange = 1.5f;
+    public LayerMask enemyLayer;
 
-    // Update is called once per frame
+    public Transform attackPoint;   // จุดตี
+    public Animator animator;       // Animator ของ Player
+
     void Update()
     {
-        
+        if (Input.GetMouseButtonDown(0)) // คลิกซ้าย
+        {
+            Attack();
+        }
+    }
+
+    void Attack()
+    {
+        // เล่นอนิเมชั่นตี
+        animator.SetTrigger("Attack");
+
+        // หา enemy ในระยะ
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(
+            attackPoint.position,
+            attackRange,
+            enemyLayer
+        );
+
+        foreach (Collider2D enemy in hitEnemies)
+        {
+            Debug.Log("ตีโดน: " + enemy.name);
+
+            EnemyHealth e = enemy.GetComponent<EnemyHealth>();
+            if (e != null)
+            {
+                e.TakeDamage(damage);
+            }
+        }
+    }
+
+    void OnDrawGizmosSelected()
+    {
+        if (attackPoint == null) return;
+
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(attackPoint.position, attackRange);
     }
 }
