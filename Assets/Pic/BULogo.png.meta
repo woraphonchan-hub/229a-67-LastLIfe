@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 6c8a7bbc355869e49b7fb3a686571ab8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1434476142685532870
+    second: BULogo_0
+  - first:
+      213: -3892188505576305342
+    second: BULogo_1
+  - first:
+      213: -1082973668454176475
+    second: BULogo_2
+  - first:
+      213: 1965661442980223131
+    second: BULogo_3
+  - first:
+      213: 2129022738871264029
+    second: BULogo_4
+  - first:
+      213: 2382100273129302391
+    second: BULogo_5
+  - first:
+      213: -8249027970793968313
+    second: BULogo_6
+  - first:
+      213: -2326745821606196011
+    second: BULogo_7
+  - first:
+      213: 2188986068387707325
+    second: BULogo_8
+  - first:
+      213: 4056409539374495007
+    second: BULogo_9
+  - first:
+      213: 8262310592532878034
+    second: BULogo_10
+  - first:
+      213: 7516268793059695668
+    second: BULogo_11
+  - first:
+      213: 2661862266111216829
+    second: BULogo_12
+  - first:
+      213: 7689875720121235855
+    second: BULogo_13
+  - first:
+      213: -963502289168018290
+    second: BULogo_14
+  - first:
+      213: 1412377491766469936
+    second: BULogo_15
+  - first:
+      213: 6286250055282746903
+    second: BULogo_16
+  - first:
+      213: 8484691603930151175
+    second: BULogo_17
+  - first:
+      213: 4466700820098152220
+    second: BULogo_18
+  - first:
+      213: 1098071616424174325
+    second: BULogo_19
+  - first:
+      213: 834732198038931571
+    second: BULogo_20
+  - first:
+      213: 3187790468194337455
+    second: BULogo_21
+  - first:
+      213: -6720019799534550778
+    second: BULogo_22
+  - first:
+      213: 6906303808118670953
+    second: BULogo_23
+  - first:
+      213: 7098242522361436865
+    second: BULogo_24
+  - first:
+      213: -8956193197401023863
+    second: BULogo_25
+  - first:
+      213: -9134566287826405013
+    second: BULogo_26
+  - first:
+      213: -6275281200682097024
+    second: BULogo_27
+  - first:
+      213: -4763046692643577777
+    second: BULogo_28
+  - first:
+      213: 3797835898233584921
+    second: BULogo_29
+  - first:
+      213: -9146362177874464677
+    second: BULogo_30
+  - first:
+      213: -4360860567104592041
+    second: BULogo_31
+  - first:
+      213: 2349031200689334013
+    second: BULogo_32
+  - first:
+      213: 8653397885143799159
+    second: BULogo_33
+  - first:
+      213: 4461967365342230446
+    second: BULogo_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BULogo_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 159
+        width: 189
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3dc4746c87b71ce0800000000000000
+      internalID: -1434476142685532870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 83
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d04460d2b2cf9c0800000000000000
+      internalID: -3892188505576305342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 83
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529efa6bf2188f0f0800000000000000
+      internalID: -1082973668454176475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 83
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b989489faae674b10800000000000000
+      internalID: 1965661442980223131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 82
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13a625a6eecb8d10800000000000000
+      internalID: 2129022738871264029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 83
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779ab37d39bee0120800000000000000
+      internalID: 2382100273129302391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 83
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d609a04c0958d80800000000000000
+      internalID: -8249027970793968313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_7
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 83
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcc98cb00db5bfd0800000000000000
+      internalID: -2326745821606196011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 36
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db937804b37d06e10800000000000000
+      internalID: 2188986068387707325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 37
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f153ce9fbf24b4830800000000000000
+      internalID: 4056409539374495007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 36
+        width: 11
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d29ed355bf99a270800000000000000
+      internalID: 8262310592532878034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 37
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c5da6f4a62f4860800000000000000
+      internalID: 7516268793059695668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 37
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc439cb0a5d0f420800000000000000
+      internalID: 2661862266111216829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 37
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f893ab8893de7ba60800000000000000
+      internalID: 7689875720121235855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 36
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e845dd9d5c3f0a2f0800000000000000
+      internalID: -963502289168018290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_15
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 36
+        width: 10
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0356f7d78d5c99310800000000000000
+      internalID: 1412377491766469936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_16
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 37
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716686a8e1f3d3750800000000000000
+      internalID: 6286250055282746903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_17
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 37
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709fef85f0eafb570800000000000000
+      internalID: 8484691603930151175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 5
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1775e3fab8ecfd30800000000000000
+      internalID: 4466700820098152220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 5
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2e6ea31522d3f00800000000000000
+      internalID: 1098071616424174325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37801b2f280959b00800000000000000
+      internalID: 834732198038931571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 5
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2891b8a8e4d3c20800000000000000
+      internalID: 3187790468194337455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 5
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601c625b891bdb2a0800000000000000
+      internalID: -6720019799534550778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_23
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 5
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96647d9e8be18df50800000000000000
+      internalID: 6906303808118670953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_24
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 5
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca1dea47f5028260800000000000000
+      internalID: 7098242522361436865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_25
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 5
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a54292db535b380800000000000000
+      internalID: -8956193197401023863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 5
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6939d4bb508b3180800000000000000
+      internalID: -9134566287826405013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_27
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 5
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08628afeef8b9e8a0800000000000000
+      internalID: -6275281200682097024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_28
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 5
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40616cc44246edb0800000000000000
+      internalID: -4763046692643577777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_29
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 5
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d707da0af94b430800000000000000
+      internalID: 3797835898233584921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_30
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 5
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5079b80f08911180800000000000000
+      internalID: -9146362177874464677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_31
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 5
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757e8b64b6c1b73c0800000000000000
+      internalID: -4360860567104592041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_32
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 5
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6a56b6e6f699020800000000000000
+      internalID: 2349031200689334013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 5
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775dc14678b071870800000000000000
+      internalID: 8653397885143799159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BULogo_34
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 5
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7fb92ada71ced30800000000000000
+      internalID: 4461967365342230446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BULogo_0: -1434476142685532870
+      BULogo_1: -3892188505576305342
+      BULogo_10: 8262310592532878034
+      BULogo_11: 7516268793059695668
+      BULogo_12: 2661862266111216829
+      BULogo_13: 7689875720121235855
+      BULogo_14: -963502289168018290
+      BULogo_15: 1412377491766469936
+      BULogo_16: 6286250055282746903
+      BULogo_17: 8484691603930151175
+      BULogo_18: 4466700820098152220
+      BULogo_19: 1098071616424174325
+      BULogo_2: -1082973668454176475
+      BULogo_20: 834732198038931571
+      BULogo_21: 3187790468194337455
+      BULogo_22: -6720019799534550778
+      BULogo_23: 6906303808118670953
+      BULogo_24: 7098242522361436865
+      BULogo_25: -8956193197401023863
+      BULogo_26: -9134566287826405013
+      BULogo_27: -6275281200682097024
+      BULogo_28: -4763046692643577777
+      BULogo_29: 3797835898233584921
+      BULogo_3: 1965661442980223131
+      BULogo_30: -9146362177874464677
+      BULogo_31: -4360860567104592041
+      BULogo_32: 2349031200689334013
+      BULogo_33: 8653397885143799159
+      BULogo_34: 4461967365342230446
+      BULogo_4: 2129022738871264029
+      BULogo_5: 2382100273129302391
+      BULogo_6: -8249027970793968313
+      BULogo_7: -2326745821606196011
+      BULogo_8: 2188986068387707325
+      BULogo_9: 4056409539374495007
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
